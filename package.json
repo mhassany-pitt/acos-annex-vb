@@ -1,0 +1,13 @@
+{
+  "name": "acos-annex-vb",
+  "version": "0.1.1",
+  "description": "acos-annex-vb",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Mohammad Hassany",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acos-server/acos-annex-vb.git"
+  }
+}
